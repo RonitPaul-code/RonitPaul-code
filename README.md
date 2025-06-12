@@ -19,5 +19,4 @@ I'm **Ronit Paul**, a dedicated 12th-grade student with a burning passion for co
 > **"Start where you are. Use what you have. Do what you can."**  
 > &mdash; *Arthur Ashe*
 
-```cpp
-
+```
